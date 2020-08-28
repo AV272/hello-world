@@ -4,7 +4,7 @@ Start
 Hello.
 I am Alexey. I start working in Gitbook.
 
-# Gitignore
+# 1. Gitignore
 You can create `.gitignore` file which not add some file from repo to gitcloud.
 You can automaticly generate `.gitignore` file in website [gitignore.io](https://www.toptal.com/developers/gitignore).
 
@@ -32,6 +32,9 @@ For example for Linux:
 
 ```
 
-# Markdown
+# 2. Markdown
 Github guide on markdown:
 * [https://guides.github.com/features/mastering-markdown/]
+
+# 3. Connecting to github with SSH
+* [https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh]

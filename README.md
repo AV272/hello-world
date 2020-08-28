@@ -10,25 +10,26 @@ You can automaticly generate '.gitignore' file in website [gitignore.io](https:/
 
 For example for Linux:
 '''C++
-# Created by https://www.toptal.com/developers/gitignore/api/linux
-# Edit at https://www.toptal.com/developers/gitignore?templates=linux
 
-### Linux ###
-*~
+    # Created by https://www.toptal.com/developers/gitignore/api/linux
+    # Edit at https://www.toptal.com/developers/gitignore?templates=linux
 
-# temporary files which can be created if a process still has a handle open of a deleted file
-.fuse_hidden*
+    ### Linux ###
+    *~
 
-# KDE directory preferences
-.directory
+    # temporary files which can be created if a process still has a handle open of a deleted file
+    .fuse_hidden*
 
-# Linux trash folder which might appear on any partition or disk
-.Trash-*
+    # KDE directory preferences
+    .directory
 
-# .nfs files are created when an open file is removed but is still being accessed
-.nfs*
+    # Linux trash folder which might appear on any partition or disk
+    .Trash-*
 
-# End of https://www.toptal.com/developers/gitignore/api/linux
+    # .nfs files are created when an open file is removed but is still being accessed
+    .nfs*
+
+    # End of https://www.toptal.com/developers/gitignore/api/linux
 
 '''
 

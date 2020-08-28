@@ -33,7 +33,11 @@ For example for Linux:
 
 '''
 
-
+```
+if (isAwesome){
+  return true
+}
+```
 
 # Markdown
 Github guide on markdown:

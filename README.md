@@ -9,27 +9,26 @@ You can create '.gitignore' file which not add some file from repo to gitcloud.
 You can automaticly generate '.gitignore' file in website [gitignore.io](https://www.toptal.com/developers/gitignore).
 
 For example for Linux:
-```C++
+```
+# Created by https://www.toptal.com/developers/gitignore/api/linux
+# Edit at https://www.toptal.com/developers/gitignore?templates=linux
 
-    # Created by https://www.toptal.com/developers/gitignore/api/linux
-    # Edit at https://www.toptal.com/developers/gitignore?templates=linux
+### Linux ###
+*~
 
-    ### Linux ###
-    *~
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
 
-    # temporary files which can be created if a process still has a handle open of a deleted file
-    .fuse_hidden*
+# KDE directory preferences
+.directory
 
-    # KDE directory preferences
-    .directory
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
 
-    # Linux trash folder which might appear on any partition or disk
-    .Trash-*
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
 
-    # .nfs files are created when an open file is removed but is still being accessed
-    .nfs*
-
-    # End of https://www.toptal.com/developers/gitignore/api/linux
+# End of https://www.toptal.com/developers/gitignore/api/linux
 
 ```
 

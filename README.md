@@ -9,7 +9,7 @@ You can create '.gitignore' file which not add some file from repo to gitcloud.
 You can automaticly generate '.gitignore' file in website [gitignore.io](https://www.toptal.com/developers/gitignore).
 
 For example for Linux:
-'''C++
+```C++
 
     # Created by https://www.toptal.com/developers/gitignore/api/linux
     # Edit at https://www.toptal.com/developers/gitignore?templates=linux
@@ -31,12 +31,6 @@ For example for Linux:
 
     # End of https://www.toptal.com/developers/gitignore/api/linux
 
-'''
-
-```
-if (isAwesome){
-  return true
-}
 ```
 
 # Markdown

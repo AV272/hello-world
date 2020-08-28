@@ -5,8 +5,8 @@ Hello.
 I am Alexey. I start working in Gitbook.
 
 # Gitignore
-You can create '.gitignore' file which not add some file from repo to gitcloud.
-You can automaticly generate '.gitignore' file in website [gitignore.io](https://www.toptal.com/developers/gitignore).
+You can create `.gitignore` file which not add some file from repo to gitcloud.
+You can automaticly generate `.gitignore` file in website [gitignore.io](https://www.toptal.com/developers/gitignore).
 
 For example for Linux:
 ```

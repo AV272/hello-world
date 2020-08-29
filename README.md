@@ -37,13 +37,9 @@ Github guide on markdown:
 * [https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh]
 
 # 4. Base commands for git terminal
-```
-git init   # initialisation of the folder in computer (create .git folder)
 
-git add <filename>   # adding file to .git folder (not to gitcloud)
-
-git commit -m "comment" <filename or -a(all)>   # fix changes in files with comment (not in gitcloud)
-
-git push origin master      # send changes to git cloud. "origin" - local folder name on computer, 
-                            # "master" - branch in gitcloud file in which send changes.
-```
+1. `git init`  -- initialisation of the folder in computer (create .git folder)
+2. `git add <filename>`  -- adding file to .git folder (not to gitcloud)
+3. `git commit -m "comment" <filename or -a(all)>`  -- fix changes in files with comment (not in gitcloud)
+4. `git push origin master`  --send changes to git cloud. "origin" - local folder name on computer, 
+"master" - branch in gitcloud file in which send changes.

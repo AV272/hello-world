@@ -38,16 +38,12 @@ Github guide on markdown:
 
 # 4. Base commands for git terminal
 ```
-git init
-    #  -- initialisation of the folder in computer (create .git folder)
+git init   # initialisation of the folder in computer (create .git folder)
 
-git add <filename>
-    #   -- adding file to .git folder (not to gitcloud)
+git add <filename>   # adding file to .git folder (not to gitcloud)
 
-git commit -m "comment" <filename or -a(all)>
-    #   -- fix changes in files with comment (not in gitcloud)
+git commit -m "comment" <filename or -a(all)>   # fix changes in files with comment (not in gitcloud)
 
-git push origin master
-       #-- send changes to git cloud. "origin" - local folder name on computer, 
-       #  "master" - branch in gitcloud file in which send changes.
+git push origin master      # send changes to git cloud. "origin" - local folder name on computer, 
+                            # "master" - branch in gitcloud file in which send changes.
 ```
